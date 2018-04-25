@@ -3,7 +3,7 @@ package by.htp.lsn.aviacompany.logic;
 import by.htp.lsn.aviacompany.model.Aircraft;
 
 public class AviaPark {
-
+	
 	private Aircraft[] aviaPark;
 	private int aviaCount = 0;
 

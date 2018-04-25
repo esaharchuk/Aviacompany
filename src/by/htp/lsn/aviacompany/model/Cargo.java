@@ -1,7 +1,7 @@
 package by.htp.lsn.aviacompany.model;
 
 public class Cargo extends Aircraft {
-	@SuppressWarnings("unused")
+	
 	private int maxCarrying;
 	private int cargoProfile;
 
